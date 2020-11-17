@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "first_name": "Staci",
+        "last_name": "Dannett",
+        "email": "sdannett0@ustream.tv",
+        "gender": "Female",
+        "ip_address": "235.75.30.168"
+    },
+    {
+        "id": 2,
+        "first_name": "Marquita",
+        "last_name": "Matteuzzi",
+        "email": "mmatteuzzi1@amazon.co.jp",
+        "gender": "Female",
+        "ip_address": "0.100.12.117"
+    },
+    {
+        "id": 3,
+        "first_name": "Ruperta",
+        "last_name": "Devonside",
+        "email": "rdevonside2@lycos.com",
+        "gender": "Female",
+        "ip_address": "242.140.213.192"
+    },
+    {
+        "id": 4,
+        "first_name": "Kristina",
+        "last_name": "Lokier",
+        "email": "klokier3@cafepress.com",
+        "gender": "Female",
+        "ip_address": "46.60.167.70"
+    },
+    {
+        "id": 5,
+        "first_name": "Onida",
+        "last_name": "Strainge",
+        "email": "ostrainge4@furl.net",
+        "gender": "Female",
+        "ip_address": "215.117.47.175"
+    }
+]

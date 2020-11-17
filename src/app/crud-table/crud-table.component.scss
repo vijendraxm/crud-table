@@ -1,0 +1,27 @@
+.container {
+  margin: 0 15%;
+  padding-top: 30px;
+
+  table {
+    width: 100%;
+    margin-top: 10px;
+
+    tr.mat-row {
+      td.mat-cell:last-of-type a {
+        cursor: pointer;
+      }
+
+      &:hover {
+        td.mat-cell:last-of-type a {
+          &:first-child {
+            color: #29d429;
+          }
+
+          &:last-child {
+            color: red;
+          }
+        }
+      }
+    }
+  }
+}
